@@ -1,1 +1,2 @@
 # SequenceClustering
+The project implements K-Medoid algorithm to cluster numerical sequences. The K-medoid utilizes Longest Common String method to calculate the similarity between sequences. It evaluates the silhouette_score for each cluster configuration and visualizes how datasets cluster in plots to determine the best cluster configuration. The sequence clustering alogorithm are used to analyze and compare texts or genomic sequences. 
